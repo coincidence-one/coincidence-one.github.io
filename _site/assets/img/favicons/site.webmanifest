@@ -1,9 +1,9 @@
 
 
 {
-  "name": "Chirpy",
-  "short_name": "Chirpy",
-  "description": "A minimal, responsive and feature-rich Jekyll theme for technical writing.",
+  "name": "coincidence-one",
+  "short_name": "coincidence-one",
+  "description": "wooyeon's tech blog to write history.",
   "icons": [
     {
       "src": "/assets/img/favicons/android-chrome-192x192.png",

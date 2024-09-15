@@ -1,11 +1,28 @@
 [
   
   {
+    "title": "나의 첫번째 포스팅",
+    "url": "/posts/my-first-post-test/",
+    "categories": "blog, tech",
+    "tags": "jekyll, first post",
+    "date": "2024-09-15 18:57:00 +0900",
+    
+
+
+
+
+
+    
+    "snippet": "첫번째 포스팅 테스트안녕하세요 첫번째 블로그 포스팅 테스트입니다. 잘 부탁드려요~블로그를 쓰는 목적단순한 기록용이 아닌, 내 경험과 방법을 리뷰하기 위함.",
+    "content": "첫번째 포스팅 테스트안녕하세요 첫번째 블로그 포스팅 테스트입니다. 잘 부탁드려요~블로그를 쓰는 목적단순한 기록용이 아닌, 내 경험과 방법을 리뷰하기 위함."
+  },
+  
+  {
     "title": "Customize the Favicon",
     "url": "/posts/customize-the-favicon/",
     "categories": "Blogging, Tutorial",
     "tags": "favicon",
-    "date": "2019-08-11 00:34:00 +0800",
+    "date": "2019-08-11 01:34:00 +0900",
     
 
 
@@ -22,7 +39,7 @@
     "url": "/posts/getting-started/",
     "categories": "Blogging, Tutorial",
     "tags": "getting started",
-    "date": "2019-08-09 20:55:00 +0800",
+    "date": "2019-08-09 21:55:00 +0900",
     
 
 
@@ -39,7 +56,7 @@
     "url": "/posts/write-a-new-post/",
     "categories": "Blogging, Tutorial",
     "tags": "writing",
-    "date": "2019-08-08 14:10:00 +0800",
+    "date": "2019-08-08 15:10:00 +0900",
     
 
 
@@ -56,7 +73,7 @@
     "url": "/posts/text-and-typography/",
     "categories": "Blogging, Demo",
     "tags": "typography",
-    "date": "2019-08-08 11:33:00 +0800",
+    "date": "2019-08-08 12:33:00 +0900",
     
 
 
